@@ -17,7 +17,10 @@ function Sidebar() {
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXgHyNAUTsr3BRyIHVo47tDBVKCE1CKNIhtf-RTRH6ldaPpuPEPptZuefSOftS-avuF9E&usqp=CAU"
           alt=""
         />
-        <Avatar className="sidebar__avatar" />
+        <Avatar
+          className="sidebar__avatar"
+          src="https://randomuser.me/api/portraits/men/61.jpg"
+        />
         <h2>Sonny Sangha</h2>
         <h4>sonny.sangha@gmail.com</h4>
       </div>
