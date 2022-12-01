@@ -16,3 +16,7 @@
   height: 25px !important;
   width: 25px !important;
 }
+
+.headerOption__title {
+  font-size: 14px;
+}
